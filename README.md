@@ -7,6 +7,10 @@
 
 ```docker run --name 21223785container -p 8090:8080 21223785```
 
+## If you are using windows operating system try to run the below command before running the CURL commands ##
+
+```Remove-item alias:curl```
+
 ## Run the curl command ##
 
 This transfers ETH:
